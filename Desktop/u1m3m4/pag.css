@@ -1,0 +1,45 @@
+h1{
+    color: pink;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.edad {
+    color: hotpink;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.cenicienta{
+    color: lightskyblue;
+}
+
+.nemo {
+    color: orange;
+}
+
+.montersinc {
+    color: lightgreen;
+}
+
+#caja {
+    background-color: mediumpurple;
+    width: 180px;
+    height: 90px;
+    border: 2px solid orchid;
+    margin-left: 160px;
+
+}
+
+h3 {
+    color: royalblue;
+}
+
+p{
+    font-style: oblique;
+}
+
+.ubicacion {
+    font-size: 15px;
+}
+
